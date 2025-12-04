@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    # "binary",
+    # "library",
+]
+
+resolver = "2" # This is 2021 Edition. 2024 Edition is 3
